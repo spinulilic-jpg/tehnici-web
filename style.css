@@ -1,0 +1,62 @@
+/* Stil general */
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Titluri */
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #34495e;
+}
+
+/* Meniu */
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #2980b9;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #e74c3c;
+}
+
+/* Imagini */
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* Butoane */
+button {
+    padding: 8px 15px;
+    background: #2980b9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #1f6391;
+}
+
+/* Formular */
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
